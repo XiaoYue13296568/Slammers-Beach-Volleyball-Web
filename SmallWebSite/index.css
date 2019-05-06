@@ -1,0 +1,66 @@
+@charset "utf-8";
+
+body
+{
+background-color:#d0e4fe;
+}
+
+h1
+{
+font-family:Calibri Light;
+color:white;
+text-align:center;
+text-decoration:underline;
+margin-left: -1em;
+}
+
+p1
+{
+font-family:Calibri Light;
+text-align:center;
+text-indent:50px;
+margin-top:100px;
+margin-bottom:100px;
+margin-right:50px;
+margin-left:50px;
+}
+
+p2
+{
+font-family:Calibri Light;
+text-align:center;
+text-indent:50px;
+margin-top:100px;
+margin-bottom:100px;
+margin-right:50px;
+margin-left:50px;
+}
+
+p3
+{
+font-family:Calibri Light;
+text-align:center;
+text-indent:50px;
+margin-top:100px;
+margin-bottom:100px;
+margin-right:50px;
+margin-left:50px;
+}
+
+p4
+{
+font-family:Calibri Light;
+text-align:center;
+text-indent:50px;
+margin-top:100px;
+margin-bottom:100px;
+margin-right:50px;
+margin-left:50px;
+}
+
+img
+{
+border-radius: 8px;
+max-width: auto;
+height: auto;
+}
